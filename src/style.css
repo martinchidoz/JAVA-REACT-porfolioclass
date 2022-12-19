@@ -1,0 +1,18 @@
+.banner{
+    background: linear-gradient(180deg,#440222, #3d2f30, #111), url(./../public/display.jpeg);
+    min-width: 100vw;
+    min-height: 80vh;
+    background-blend-mode: difference;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.services{
+    position: relative;
+    top: -3rem;
+    z-index: 1000;
+    width: 75%;
+    margin: auto;
+}
